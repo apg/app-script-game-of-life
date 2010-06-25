@@ -9,4 +9,4 @@ It's [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 3. Paste game-of-life.js into the window and hit save.
 4. Reload the spreadsheet!
 
-You should at this point have a new menu "Game of Life." If you choose, "Random Board," you'll get a random start position. Choose "[Gosper Gun](http://en.wikipedia.org/wiki/Gun_(cellular_automaton))" to get a known interesting start state. Then choose "Next Generation" to compute the next generation of the simulation.
+You should at this point have a new menu "Game of Life." If you choose, "Random Board," you'll get a random start position. Choose "[Gosper Gun](http://en.wikipedia.org/wiki/Gun_%28cellular_automaton%29)" to get a known interesting start state. Then choose "Next Generation" to compute the next generation of the simulation.
